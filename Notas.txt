@@ -1,0 +1,21 @@
+## Instalar react
+npm install -g create-react-app
+
+##Criando o projeto
+npx create-react-app upload-frontend-react-hooks --template typescript
+
+## Entrar na Pasta
+cd upload-frontend-react-hooks
+
+# Apagar arquivo que não vou usar
+App.css
+app.test.js
+index.css
+logo.svg
+serviceWorker.js
+
+Deixar apenas os arquios App.txs e Index.txs
+entar nos arquivos e tirar as importações.
+
+#Criar Pasta compoments
+
